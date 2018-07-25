@@ -7,5 +7,8 @@ class Patient
   def self.all
     @@all
   end
+  def initialize(doctor, date)
+    
+  end
   
 end
